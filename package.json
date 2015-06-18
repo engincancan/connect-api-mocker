@@ -1,19 +1,26 @@
 {
-  "name": "connect-api-mocker",
-  "version": "0.0.0",
-  "description": "connect-api-mocker\r ==================\r `connect-api-mocker` is a [connect.js](https://github.com/senchalabs/connect) middleware that fakes REST API server with filesystem. It will be helpful when you try to test your application without the actual REST API server.",
-  "main": "api-mocker.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/engincancan/connect-api-mocker"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/engincancan/connect-api-mocker/issues"
-  },
-  "homepage": "https://github.com/engincancan/connect-api-mocker"
+    "name": "connect-api-mocker",
+    "version": "0.0.0",
+    "description": "connect-api-mocker\r ==================\r `connect-api-mocker` is a [connect.js](https://github.com/senchalabs/connect) middleware that fakes REST API server with filesystem. It will be helpful when you try to test your application without the actual REST API server.",
+    "main": "api-mocker.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/engincancan/connect-api-mocker"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/engincancan/connect-api-mocker/issues"
+    },
+    "homepage": "https://github.com/engincancan/connect-api-mocker",
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "devDependencies": {},
+    "peerDependencies": {},
+    "keywords": [],
+    "dependencies": {}
 }
